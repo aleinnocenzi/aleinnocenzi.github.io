@@ -4,7 +4,7 @@ $(document).ready(function(){
             color: "#000",
             position: "right",
             change_height_on_scroll: true,
-            height_transition_duration: "1s",
+            height_transition_duration: "0.5s",
             transparent: true,
             nav_background: "#c0ff8c",
         }
