@@ -43,6 +43,7 @@ $(document).ready(function(){
                 }
 
                 $(".navbar-nav li a").css("color", config.color);
+                $("a.navbar-brand").css("color", config.color);
                 $(".navbar-toggle .icon-bar").css("background", config.color);
                 $(".navbar-nav li a:hover").css({
                     "color": config.color,
