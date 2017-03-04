@@ -39,7 +39,7 @@ nav.navbar {
     border: none;
 }
 
-button.navbar-toggle .icon-bar{
+/* button.navbar-toggle .icon-bar{
     -webkit-transition: all 0.4s linear;
     -moz-transition: all 0.4s linear;
     transition: all 0.4s linear;
@@ -65,7 +65,7 @@ button.animate-menu .icon-bar:nth-child(3){
     -webkit-transition: transform 0.4s linear;
     -moz-transition: transform 0.4s linear;
     transition: transform 0.4s linear;
-}
+} */
 
 ul.dropdown-menu {
     background: #fff;
